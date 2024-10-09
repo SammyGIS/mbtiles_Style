@@ -1,0 +1,23 @@
+{
+  "options": {
+    "paths": {
+      "fonts": "fonts",
+      "styles": "styles",
+      "sprites": "sprites"
+    }
+  },
+  "styles": {
+    "outdoor": {
+      "style": "Outdoor/style.json",
+      "tilejson": {
+        "type": "overlay",
+        "bounds": [-124.26, 32.5, -114.13, 42.0]
+      }
+    }
+  },
+  "data": {
+    "openmaptiles": {
+      "mbtiles": "california.mbtiles"
+    }
+  }
+}
